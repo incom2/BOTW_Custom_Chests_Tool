@@ -1,5 +1,6 @@
 # BOTW_Custom_Chests_Tool
-Tool made in VB.Net that creates a mod for BOTW (BNP file, see https://gamebanana.com/mods/354876) with a lot of chests with objects, some of them customizable.
+
+Tool made in VB.Net with Visual Studio 2015 that creates a mod for BOTW (a BNP file to use with BCML mod installer) with a lot of chests with objects, some of them customizable. Check the mod page here: https://gamebanana.com/mods/354876
 
 Taken from the help text file:
 
