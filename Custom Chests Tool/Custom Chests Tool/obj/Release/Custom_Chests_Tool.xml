@@ -1,0 +1,135 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Custom_Chests_Tool
+</name>
+</assembly>
+<members>
+<member name="T:Custom_Chests_Tool.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Custom_Chests_Tool.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Custom_Chests_Tool.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Custom_Chests_Tool.clsMap.Load(System.String)">
+ -----------------------------------------------------------------------
+ <summary>
+ Function to load the map.yml file into the string array.
+ </summary>
+ <param name="path">Path+filename</param>
+ <returns>TRUE if OK, FALSE if ERROR.</returns>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.clsMap.Save(System.String)">
+ -----------------------------------------------------------------------
+ <summary>
+ Function to save the string array into the map.yml file.
+ </summary>
+ <param name="path">Path+filename</param>
+ <returns>TRUE if OK, FALSE if ERROR.</returns>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.clsMap.GetLine(System.Int32,System.Boolean)">
+ -----------------------------------------------------------------------
+ <summary>
+ Returns the editable value from a certain "DropActor" line.
+ Any other line can be asked but optional parameter must be FALSE.
+ - If line is not found, "ERROR" is returned.
+ - If asked a DropActor line and it's not, "ERROR" is returned.
+ </summary>
+ <param name="num">line number</param>
+ <param name="mustBeDropActor">Line must be a DropActor one. </param>
+ <returns></returns>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.clsMap.SetLine(System.Int32,System.String)">
+ -----------------------------------------------------------------------
+ <summary>
+ Sets the passed value in the editable part of a certain line.
+ Non allowed characters, etc. will be scrapped here.
+ Returns TRUE if OK, FALSE if error.
+ </summary>
+ <param name="num"></param>
+ <param name="value"></param>
+ <returns></returns>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.Form1_Load(System.Object,System.EventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ We start here. Setting paths and getting the form ready.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.btnNew_Click(System.Object,System.EventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ NEW button. Will prepare the working folder and unzip the BNP file.
+ If previous working folder is found, it will delete it!
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.btnLoad_Click(System.Object,System.EventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ LOAD button. Will read the map file and prepare the form for any user
+ interaction. Working folder and map file must exist. It can be called
+ with parameters set to Nothing: then no questions will be asked.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.btnSave_Click(System.Object,System.EventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ SAVE button. Will update the map file and zip the whole working folder.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.linkContents_LinkClicked(System.Object,System.Windows.Forms.LinkLabelLinkClickedEventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ Open the a page in the default browser.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.linkMod_LinkClicked(System.Object,System.Windows.Forms.LinkLabelLinkClickedEventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ Open the a page in the default browser.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+<member name="M:Custom_Chests_Tool.Form1.txtCustom1_GotFocus(System.Object,System.EventArgs)">
+ -----------------------------------------------------------------------
+ <summary>
+ Dirty trick to select the contents when the user focuses it.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ -----------------------------------------------------------------------
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Debug\Custom_Chests_Tool.exe.config
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Debug\Custom_Chests_Tool.dat
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Debug\Custom_Chests_Tool.exe
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Debug\Custom_Chests_Tool.pdb
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Debug\Custom_Chests_Tool.xml
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.vbprojResolveAssemblyReference.cache
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.Form1.resources
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.Resources.resources
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.vbproj.GenerateResource.Cache
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.exe
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.xml
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Debug\Custom_Chests_Tool.pdb
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Debug\Custom_Chests_Tool.txt

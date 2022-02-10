@@ -1,0 +1,12 @@
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Release\Custom Chests Tool.exe.config
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Release\mod_source.dat
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Release\Custom Chests Tool.exe
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Release\Custom Chests Tool.pdb
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Release\Custom Chests Tool.xml
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Release\Custom_Chests_Tool.Form1.resources
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Release\Custom_Chests_Tool.Resources.resources
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Release\Custom Chests Tool.vbproj.GenerateResource.Cache
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Release\Custom Chests Tool.exe
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Release\Custom Chests Tool.xml
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\obj\Release\Custom Chests Tool.pdb
+E:\proyectos\CHEMP\Custom Chests Tool\Custom Chests Tool\bin\Release\Custom_Chests_Tool.exe.config
